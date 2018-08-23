@@ -1,0 +1,251 @@
+ .ads { background: #fcf9f5; color: #333; border-top: 1px solid #ccc; border-right: 1px solid #ccc; border-bottom: 1px solid #ccc; border-left: 4px solid dodgerblue; line-height: 1.5em; padding: 5px; }
+
+
+.adsuc { color: white; position: fixed; bottom: 0; left: 0; right: 0; z-index: 99; padding: 12px; text-align: center; background: black; font-weight: bold; font-style: italic; }
+
+
+.adsuc a { color: white; }
+
+
+.contact { color: black; border: 1px solid #ededed; border-radius: 5px 5px; padding: 7px; margin: 5px; }
+
+
+.f1 { background: #fff; margin-right: 5px; margin-left: 5px; margin-bottom: 1px; margin-top: 1px; padding: 5px; border: 1px solid dodgerblue; text-align: center; border-radius: 5px 5px; }
+
+
+.mc { background-color: #444; border-bottom: 2px solid #ff0000; border-left: 15px solid #ff0000; border-right: 15px solid #ff0000; border-top: 2px solid #ff0000; height: auto; margin: 0px; padding: 10px; text-align: center; width: auto; border-radius: 7px; }
+
+
+.note { border: #bbb solid 1px; background: #ffffcc; color: #333; font-size: 12px; padding: 6px; margin-left: 5px; margin-right: 5px; margin-bottom: 3px; margin-top: 2px; border-radius: 6px 6px; }
+
+
+.other { padding: 6px; margin: 5px; background: #fff; }
+
+
+.rmenu { color: #fff; background: dodgerblue; font-weight: bold; display: block; margin-top: 2px; margin-bottom: 1px; margin-left: 5px; margin-right: 5px; padding-top: 5px; padding-bottom: 5px; padding-left: 6px; padding-right: 6px; border-radius: 5px 5px; }
+
+
+.time { background: black; color: #fff; font-weight: bold; text-align: center; margin: 0; padding: 7px; display: block; }
+
+.description {background:#f7f7f7;border-top:1px solid #ddd;border-bottom:1px solid #ddd;font-size:10px;font-weight:700;margin:0;padding:10px 5px}
+
+
+.download { background: dodgerblue; margin-left: 5px; margin-right: 5px; padding: 9px; color: white; font-weight: border-radius:5px 5px;width:90%;bold; display: block; }
+
+
+.foto { background: white; padding: 2px; border: solid 1px dodgerblue; margin: 2px; border-radius:120px;-webkit-box-shadow: 0 0 20px #50a7e6; }
+
+
+.header { background: #333; color: white; padding: 10px; border-bottom: solid 3px brown; padding-bottom:5px; }
+
+
+.konten { padding: 6px; margin: 5px; border: solid 1px #EDEDED; border-radius: 5px 5px ; background: #fff; }
+
+
+.menu { color: black; border:1px solid #EDEDED; border-radius: 5px 5px;padding:7px;margin-left:5px;margin-right:5px;margin-top:0;margin-bottom:0}.cmenu { color: black; font-weight: bold; border:2px solid #EDEDED; border-radius: 5px 5px;padding:10px; padding-left:5px;margin-left:0;margin-right:0;margin-top:0;margin-bottom:0}
+
+
+.pagination { padding: 5px; text-align: center; }
+.paging { display: inline-block; border: solid 1px #ccc; background: whitesmoke; padding: 4px; font-weight: bold; margin-top: 2px; margin-bottom: 2px; margin-right: 5px; margin-left: 2px; }
+.lpaging { display: inline-block; border: solid 1px #ccc; background: whitesmoke; padding: 4px; font-weight: bold; margin: 2px; align: right; }
+
+
+.quote { background: #fff; padding: 5px; margin: 3px; border-top: solid 1px dodgerblue; border-bottom: solid 1px dodgerblue; border-right: solid 1px dodgerblue; border-left: solid 4px dodgerblue; }
+
+
+.quotes { background: lavender; padding: 5px; margin: 3px; border-top: solid 1px dodgergreen; border-bottom: solid 1px dodgergreen; border-right: solid 1px dodgergreen; border-left: solid 4px dodgergreen; }
+
+
+.title{ background: dodgerblue; padding: 10px; font-weight: bold; color: white; margin-top: 5px; margin-right: 5px; margin-left: 5px; padding-top: 6px; padding-bottom: 6px;border-radius:5px 5px }
+
+
+.title a:link {color:white;}
+.tlist { background: dodgerblue; padding: 10px; font-weight: bold; color: white; margin-top: 5px; margin-right: 5px; margin-left: 5px; padding-top: 11px; padding-bottom: 11px; padding-right: 9px; padding-left: 9px; border-radius:5px 5px }.clist { background: dodgerblue; padding: 10px; font-weight: bold; color: white; margin-top: 5px; margin-right: 0; margin-left: 0; padding-top: 11px; padding-bottom: 11px; padding-right: 9px; padding-left: 9px; border-radius:5px 5px }.klist { background: dodgerblue; padding: 10px; font-weight: bold; color: white; margin-top: 5px; margin-right: 5px; margin-left: 5px; padding-top: 11px; padding-bottom: 2px; padding-right: 9px; padding-left: 9px; border-radius:5px 5px }.kalist { background: dodgerblue; padding: 10px; font-weight: bold; color: white; margin-top: 0; margin-right: 5px; margin-left: 5px; padding-top: 24px; padding-bottom: 15px; padding-right: 9px; padding-left: 9px; border-radius:5px 5px }.footer {font-size:12px;color:#fff;background:dodgerblue;border-top:10px solid #00BFFF;text-align:center;margin:45px 0 0;padding: 10px 4px 10px}
+.footitle {background:#333;content:'All Rights Reserved';margin:5px -4px -40px;padding:5px}
+
+.footer a:link{color:#fff;font-weight:bold;}
+
+
+.footer a:visited{color:white;font-weight:bold;}
+
+
+body {margin:auto;padding:0;background:white;text-decoration:none;color:#333;font-family: arial;}
+
+
+a:link{color:dodgerblue;font-family: arial;text-decoration:none;}
+
+
+a:hover{color:red;text-decoration:underline}
+
+
+a:visited{color:orange;text-decoration;bold;}
+
+
+.musik a:hover{background:#0088aa;text-decoration:none;color:#fff;padding:1px 5px 1px 5px;border-radius: 5px 5px}
+
+
+p {padding:0; margin:0}
+
+
+.f a:hover,.konten a:hover,.f1 a:hover{color:red;text-decoration:none;color:green;padding:1px;}
+
+
+input[type=password], select{width:auto; color:dodgerblue; border: 1px solid #adadad; padding: 4px;}
+
+
+.contact input[type=text],.konten input[type=text], textarea{color: #333; margin:2px;background: white; width: 80%; margin-bottom: 2px; padding: 4px; font-family: Arial; font-size: 13px; font-weight: bold; border: 2px solid dodgerblue; border-radius:6px;}
+
+
+body {max-width:600px;margin:auto;}
+
+
+h1,h2,h3,h4,h5,h6,p{margin:0px; padding: 0px; font-weight:normal;font-size:12px}
+
+
+.musik {border: solid 1px #ccc; padding: 9px; margin-left: 5px; margin-right: 5px; margin-bottom: 1px ;background:#fff;border-radius: 5px 5px;
+display: block;}
+
+
+.musik a { background: #50a7e6;padding: 1px 5px 1px 5px; text-align: center; color: #ffffff;border:1px solid dodgerblue; border-radius: 5px 5px; }
+
+
+img {max-width:95%;padding:0;margin:0}
+
+
+.mfun {background: #fbfbfb; border-left: solid 1px #ccc; border-right: solid 1px #ccc; border-top: solid 1px #ccc; border-bottom: solid 1px #ccc; padding: 6px; margin-left: 1px; margin-right: 1px; border-radius:5px 5px }
+
+
+.mlist {background: #fbfbfb; border-left: solid 1px #ccc; border-right: solid 1px #ccc; border-bottom: solid 1px #ccc; padding: 6px; margin-left: 4px; margin-right: 4px; border-radius:5px 5px }
+
+
+p {padding:0; margin:1px 0 0 0}
+
+
+h1,h2,h3,h5{font-size:12px;}
+
+
+.t1 {
+margin: 5px;
+padding: 6px;
+background: #EAEBEE;
+border: 1px dotted #FFFFFF; border-radius:5px 5px
+}
+
+
+.t1 h1{
+font-size: 16px;
+padding-top: px;
+color: #545454; border-radius:5px 5px
+}
+
+
+.t1 h2{
+font-size: 16px;
+padding-top: px; border-radius:5px 5px
+color: #545454;
+}
+
+
+.r1 {background: #FFFFFF;
+border: 1px;
+border-color: #FFFFFF #FFFFFF #1F0457 #FFFFFF; border-radius:5px 5px
+overflow: hidden; padding: 10px; margin-left: 5px; margin-right: 5px; margin-bottom: 0px
+}
+
+
+.r2 { padding: 10px; margin-left: 5px; margin-right: 5px; margin-bottom: 0px;
+background: #EAEBEE;
+border: 1px;
+border-color: #EAEBEE #EAEBEE #1F0457 #EAEBEE;
+overflow: hidden; border-radius:5px 5px
+}
+
+
+.r1:hover{
+background-color:#ff6000;
+}
+
+
+.r2:hover{
+background-color:#ff6000;
+}
+
+
+#pagination-links {
+background :#ddd;
+border-top :1px solid #fff;
+margin-left:5px;margin-right:5px;
+padding :4px;
+text-align :center;
+font-size :12px; border-radius:5px 5px
+}
+
+
+#pagination-links span {
+padding :4px;
+margin :2px 0;
+display :inline-block;
+color :#fff;
+content :'...';
+}
+
+
+#pagination-links a {
+display :none;
+padding :4px;
+margin :2px;
+background:dodgerblue;
+border :1px solid #fff;
+color :#fff; border-radius:5px 5px
+}
+
+
+#pagination-links a:first-child {
+display :inline-block;
+content :"";
+float :left;
+}
+
+
+#pagination-links a:last-child {
+display :inline-block;
+content :"View More »";
+float :right;
+}
+
+
+#pagination-links:after {
+display :block;
+content :"";
+clear :both;
+}
+
+
+.f:nth-child(odd){padding:5px;border:1px solid #ddd;background:#fff;border-width:1px 0;margin-left:5px;margin-right:5px;margin-top:0;margin-bottom:0; border-radius:5px 5px }
+
+
+.f:nth-child(even){padding:5px;border:1px solid #fff;background:#f5f5f5;border-width:1px 0;margin-left:5px;margin-right:5px;margin-top:0;margin-bottom:0; border-radius:5px 5px }
+
+
+.footera a{color:#fff}
+
+
+p a img {display:none;}
+
+
+.content_view_container .thumb img{background:#fff;border:1px solid #ddd;padding:3px}
+
+
+.other img{padding:0px;margin:0px;max-width:97%;}
+
+
+.mc{ background-color: #444; border-bottom: 2px solid #ff0000; border-left: 15px solid #ff0000; border-right: 15px solid #ff0000; border-top: 2px solid #ff0000; height: auto; margin: 0px; padding: 10px; text-align: center; width: auto; border-radius: 7px; }
+
+
+form [type=text]{background:#ffffff;color:#000;border:2px solid #07ACEC;width:60% ;padding:3px 2px;margin:0px;font-family: "segoe ui", Arial, Helvetica, sans-serif;}
+
+
+form [type=submit]{background:#07ACEC;width:30% ;margin:0px;padding:3px 2px;color:#fff;border: 2px solid #07ACEB;font-family: "segoe ui", Arial, Helvetica, sans-serif;font-weight:bold;}
+
+
+.tg { background-color: #444; border-bottom: 2px solid dodgerblue; border-left: 15px solid dodgerblue; border-right: 15px solid dodgerblue; border-top: 2px solid dodgerblue; height: auto; margin: 0px; padding: 10px; text-align: center; width: auto; border-radius: 7px; }.cp { color: white; border:1px solid white; margin: 3px; padding: 7px; padding-right: 10px; display: inline; }
